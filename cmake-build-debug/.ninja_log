@@ -1,0 +1,8 @@
+# ninja log v6
+14	4913	7680136155400702	CMakeFiles/MiniMaze4.dir/main.cpp.obj	479b1225dd85491e
+65	5014	7680136155948222	CMakeFiles/MiniMaze4.dir/Game.cpp.obj	95addb08855dce83
+2783	3516	7680138310598979	MiniMaze4.exe	fd63fe38a24c1566
+56	5179	7680136155848230	CMakeFiles/MiniMaze4.dir/Player.cpp.obj	aedbbbd19d302b34
+40	5644	7680136155676250	CMakeFiles/MiniMaze4.dir/Room.cpp.obj	2c02819992de816f
+47	5252	7680136155760354	CMakeFiles/MiniMaze4.dir/Profile.cpp.obj	4f2992c840f05187
+49	2782	7680138283256789	CMakeFiles/MiniMaze4.dir/Object.cpp.obj	6a2beb6a9b91c9b8
